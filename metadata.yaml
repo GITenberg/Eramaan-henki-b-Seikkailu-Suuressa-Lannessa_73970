@@ -1,0 +1,56 @@
+_repo: Eramaan-henki-b-Seikkailu-Suuressa-Lannessa_73970
+_version: 0.0.1
+alternative_title: Der Geist des Llano estakado. Finnish
+contributor:
+  translators:
+  - agent_name: Jaakkola, K. (Kaarle Kustaa)
+    alias: Jaakkola, Kaarle Kustaa
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '6826'
+    url: http://www.gutenberg.org/2009/agents/6826
+    wikipedia: https://fi.wikipedia.org/wiki/K._Jaakkola
+  - agent_name: Jaakkola, M. (Maria)
+    aliases:
+    - Jaakkola, Maria
+    - Nordgren, Maria
+    birthdate: 1859
+    deathdate: 1931
+    gutenberg_agent_id: '57293'
+    url: http://www.gutenberg.org/2009/agents/57293
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - May, Karl Friedrich
+    - May, Carl
+    - Linden, E. von
+    - Hohenthal, Karl
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_May
+    - https://de.wikipedia.org/wiki/Karl_May
+description: ''
+gutenberg_issued: '2024-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73970'
+language: fi
+pgterms:marc905: 20201115102518may
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen
+publication_note: '  $aPori :$bOtto Andersin, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Apache Indians -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Erämaan henki : $b Seikkailu Suuressa Lännessä'
+url: http://www.gutenberg.org/ebooks/73970
